@@ -1,7 +1,0 @@
-function Myfunction() {
-    alert("hello") ;
-    
-
-}
-
-
